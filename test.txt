@@ -1,0 +1,6 @@
+You can return one line by using the readline() method:
+By default the read() method returns the whole text, but you can also specify how many characters you want to return:
+If the file is located in a different location, you will have to specify the file path, like this:
+To open the file, use the built-in open() function.
+
+The open() function returns a file object, which has a read() method for reading the content of the file:
